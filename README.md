@@ -13,7 +13,6 @@ LogoKit handles the heavy lifting so you can focus on building great features fo
 Get started with a few lines of code and watch your application instantly become more polished and professional.
 
 ## Features
-![image](https://github.com/user-attachments/assets/07dcf93b-a0a4-43f1-a551-b7b7d1df7ef9)
 - **Brand Logo API**: Get instant access to more than 50 million high-quality brand assets that you can embed on your website. 
 - **Stock Logo API**: Our Stock Logo API offers extensive coverage of major stock exchanges including NYSE, NASDAQ, TSE, LSE, SZSE, Euronext, Deutsche Boerse and more. Search stocks, ETFs, funds and other instruments by name, symbol, or ISIN.
 - **Crypto Logo API**: Easily embed logos of more than 15,000 cryptocurrencies.
