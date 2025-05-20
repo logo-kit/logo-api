@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/df33dde3-e667-4181-990c-1f8f5e35838b)
-
 # LogoKit - Logo API for Brands, Stocks, Crypto & more. 
 
 Welcome to LogoKit – reliable Logo API for Brands, Stocks, ETFs, Crypto & more. Seamlessly integrate high-quality logo images and brand data into your application in seconds.
