@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/93cbdb21-a1f6-4352-88e4-7f94332ba499)
+![image](https://github.com/user-attachments/assets/df33dde3-e667-4181-990c-1f8f5e35838b)
 
 # LogoKit - Logo API for Brands, Stocks, Crypto & more. 
 
